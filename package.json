@@ -1,0 +1,25 @@
+{
+  "name": "@kcs-community/kcs-community-api-signer",
+  "version": "1.0.0",
+  "description": "KCS-Community 前端 API 请求签名工具，兼容 ASP.NET 后端验证",
+  "type": "module",
+  "main": "apiSigner.js",
+  "files": [
+    "src/"
+  ],
+  "keywords": [
+    "api",
+    "signature",
+    "hmac",
+    "browser",
+    "kcscommunity"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "UNLICENSED",
+  "author": "Ryan Stan Lin <ryanstanlinpublic@gmail.com>",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
+}
